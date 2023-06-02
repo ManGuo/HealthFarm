@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T17:18:55.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9AQe3sQDDAAFYmOij9MQ" version="21.3.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-02T17:32:50.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VNHodLFJbSZs2DYMV-Jm" version="21.3.7" type="github" pages="6">
   <diagram name="1---平台全流程" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1975" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -400,7 +400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v3gDhlpgqS9enMG_wtX9" name="5---1---顾客管理流程">
-    <mxGraphModel dx="2736" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,6 +469,81 @@
         </mxCell>
         <mxCell id="8mfvg1t9Llvn03wjAR0G-1" value="&lt;h1&gt;社交&lt;/h1&gt;&lt;p&gt;通过发朋友圈或者宣传，进行自我营销，既推广平台，又能促进交易&lt;/p&gt;&lt;p&gt;活动，点赞，转发，送朋友健康食材；&lt;/p&gt;&lt;p&gt;比赛：置换数量、社区交易量，变现能力，投资收入比等等&lt;/p&gt;&lt;p&gt;食材推荐： 类似小红书做菜等&lt;/p&gt;&lt;p&gt;企业租赁：员工福利等&lt;/p&gt;" style="text;html=1;strokeColor=#6666FF;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="-140" y="230" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="608" y="150" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="760" y="150" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771" y="260" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-5" value="每日价格走势" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="356" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-6" value="6月02 日&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5.3 元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7pM928P8XiQIzsX5Wbua-5">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-7" value="6月01日&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 5.5元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7pM928P8XiQIzsX5Wbua-5">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-8" value="5月31日&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 5.2元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7pM928P8XiQIzsX5Wbua-5">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771" y="190" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-17" value="我的粮仓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-18" value="我的钱庄" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-19" value="预计收成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-20" value="500斤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-21" value="预计收成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-22" value="实际收成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-23" value="--" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-24" value="预计市场价" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-25" value="2650.00 元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="771" y="220" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.56;dx=7.34;direction=north;notch=1.93;fillColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="840" y="220" width="6" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.56;dx=7.34;direction=north;notch=2.76;fillColor=#33FF33;strokeColor=#00FF00;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="840" y="235" width="6" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-33" value="增长30元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="841" y="220" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-34" value="实际收入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="801" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-35" value="--" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="802" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7pM928P8XiQIzsX5Wbua-36" value="提现" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="855.5" y="290" width="40" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
