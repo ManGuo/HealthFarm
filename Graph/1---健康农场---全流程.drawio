@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T02:31:16.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RVSB0DgJj8VIzNQB7X7F" version="21.3.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-05T01:22:13.740Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="jJ1N9cJE5QiNk9DoDeDk" version="21.3.7" type="github" pages="6">
   <diagram name="1---平台全流程" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2150" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,7 +203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E1LwZMA4pDtmjwUUvltx" name="1-1 乡村准备">
-    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,6 +280,78 @@
         </mxCell>
         <mxCell id="bj5oLYvQezmFyfnRu-zU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="313pG6ubk9GXBY_i31wl-1" source="bj5oLYvQezmFyfnRu-zU-11" target="bj5oLYvQezmFyfnRu-zU-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TV74RX1mGMC2DMjjI37V-1" value="&lt;h1&gt;乡村&lt;/h1&gt;&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;组织准备：村长牵头、种植和管理&lt;/div&gt;&lt;div&gt;土地准备：合作的田地&lt;/div&gt;&lt;div&gt;品种准备：种植的种类、品种选择&lt;/div&gt;&lt;div&gt;价格准备：各项成本的管理&lt;/div&gt;&lt;div&gt;养殖管理：养殖作物的管理&lt;/div&gt;&lt;div&gt;种植管理：各种蔬菜的种植管理&lt;/div&gt;&lt;div&gt;人工准备：临时工人手的管理&lt;/div&gt;&lt;div&gt;周边情况准备：乡村周边资源的介绍，主要是旅游等二次消费&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#3333FF;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="60" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-1" value="&lt;h1&gt;乡村供应商&lt;/h1&gt;&lt;p&gt;住宿：研学的住宿基地&lt;/p&gt;&lt;p&gt;旅游： 周边的草原和火山旅游&lt;/p&gt;&lt;p&gt;土特产：在平台上代销的产品，收取交易费&lt;/p&gt;&lt;p&gt;净菜：蔬菜的二次加工、玉米饮料、番茄酱等&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#3333FF;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="270" width="190" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-2" value="用户角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="900" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-3" value="村长（乡村组织者）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-263" y="830" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-4" value="农户（乡村种植者）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-263" y="897.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-5" value="农商（乡村供应商）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-263" y="960" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9T9T222LoH6HPyPB1X9o-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-333" y="915" as="sourcePoint" />
+            <mxPoint x="-283" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9T9T222LoH6HPyPB1X9o-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-333" y="915" as="sourcePoint" />
+            <mxPoint x="-283" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9T9T222LoH6HPyPB1X9o-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-333" y="915" as="sourcePoint" />
+            <mxPoint x="-283" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-11" value="&lt;h1&gt;乡村供应商&lt;/h1&gt;&lt;p&gt;只提供符合平台要求的产品销售。&lt;/p&gt;&lt;p&gt;需要平台审核销售产品。&lt;/p&gt;&lt;p&gt;订单、结算、支付线上执行。&lt;/p&gt;&lt;p&gt;疑问：线下活动的问题。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="980" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9T9T222LoH6HPyPB1X9o-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-143" y="980" as="sourcePoint" />
+            <mxPoint x="-93" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-13" value="&lt;h1&gt;种植终端&lt;/h1&gt;&lt;p&gt;接收订单 = 选苗播种 = 种植过程管理 = 收获通知 = 采收管理 = 配送。&lt;/p&gt;&lt;p&gt;种植终端 = 种植订单接收者&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="820" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9T9T222LoH6HPyPB1X9o-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-143" y="850" as="sourcePoint" />
+            <mxPoint x="-93" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9T9T222LoH6HPyPB1X9o-4" target="9T9T222LoH6HPyPB1X9o-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-143" y="910" as="sourcePoint" />
+            <mxPoint x="-93" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-16" value="平台" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="820" width="200" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-18" value="订单归一" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="9T9T222LoH6HPyPB1X9o-16">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-17" value="种植终端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="820" width="200" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9T222LoH6HPyPB1X9o-19" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="1150" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
