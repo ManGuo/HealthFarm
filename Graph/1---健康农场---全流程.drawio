@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T16:15:30.119Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="lgt5c_4UdCzWDtVLe8wA" version="21.3.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-06T16:29:49.014Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="fuvb7ktTjbg7eZ7Vk45j" version="21.3.7" type="github" pages="6">
   <diagram name="1---平台全流程" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1992" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E1LwZMA4pDtmjwUUvltx" name="1-1 乡村准备">
-    <mxGraphModel dx="1758" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -513,8 +513,8 @@
             <mxPoint x="320" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-2" value="预选种植品种（需求端）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="820" width="200" height="550" as="geometry" />
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-2" value="需求端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="843" width="200" height="550" as="geometry" />
         </mxCell>
         <mxCell id="oyIzIirk2-M3pWlSp7sM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oyIzIirk2-M3pWlSp7sM-2" source="oyIzIirk2-M3pWlSp7sM-4" target="oyIzIirk2-M3pWlSp7sM-3">
           <mxGeometry relative="1" as="geometry" />
@@ -522,58 +522,81 @@
         <mxCell id="oyIzIirk2-M3pWlSp7sM-4" value="登录小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-2">
           <mxGeometry x="40" y="42.5" width="120" height="27.5" as="geometry" />
         </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oyIzIirk2-M3pWlSp7sM-2" source="oyIzIirk2-M3pWlSp7sM-3" target="oyIzIirk2-M3pWlSp7sM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oyIzIirk2-M3pWlSp7sM-3" value="菜地承租" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-2">
           <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oyIzIirk2-M3pWlSp7sM-2" source="oyIzIirk2-M3pWlSp7sM-5" target="oyIzIirk2-M3pWlSp7sM-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyIzIirk2-M3pWlSp7sM-5" value="菜品选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-2">
           <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oyIzIirk2-M3pWlSp7sM-2" source="oyIzIirk2-M3pWlSp7sM-6" target="oyIzIirk2-M3pWlSp7sM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oyIzIirk2-M3pWlSp7sM-6" value="订单支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-2">
-          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oyIzIirk2-M3pWlSp7sM-17" value="完成播种" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-2">
-          <mxGeometry x="40" y="500" width="120" height="27.5" as="geometry" />
+          <mxGeometry x="40" y="480" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="oyIzIirk2-M3pWlSp7sM-11" value="租地下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-2">
           <mxGeometry x="40" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-7" value="预选种植品种（平台）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="820" width="200" height="550" as="geometry" />
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-7" value="平对" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="843" width="200" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-9" value=". 显示土地价格&lt;br&gt;. 土地种植价格明细&lt;br&gt;. 显示菜品价格&lt;br&gt;. 种植品种价格明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-7">
-          <mxGeometry x="40" y="116" width="120" height="100" as="geometry" />
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-9" value=". 显示土地价格&lt;br&gt;. 土地种植价格明细&lt;br&gt;. 显示菜品价格&lt;br&gt;. 种植品种价格明细" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-7">
+          <mxGeometry x="40" y="115" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-7">
-          <mxGeometry x="40" y="290" width="120" height="40" as="geometry" />
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-10" value=". 生成租地和种菜捆绑订单；&lt;br&gt;. 显示土地和种植明细价；&lt;br&gt;. 显示土地和种植订单总价" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-7">
+          <mxGeometry x="40" y="260" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-12" value="预选种植品种（农户）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="820" width="200" height="550" as="geometry" />
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-15" value=". 订单状态更新&lt;br&gt;. 生成农户种植订单&lt;br&gt;. 页面显示已播种元素&lt;br&gt;. 仓库添加菜品预估产量&lt;br&gt;. 订单菜品归一" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-7">
+          <mxGeometry x="30" y="430" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-14" value="菜地承租" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-12">
-          <mxGeometry x="40" y="90" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-15" value="种植品种选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-12">
-          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-8" value="登录小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="882.5" width="120" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-13" value="登录小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="986.25" width="120" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyIzIirk2-M3pWlSp7sM-3" target="oyIzIirk2-M3pWlSp7sM-9">
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oyIzIirk2-M3pWlSp7sM-7" source="oyIzIirk2-M3pWlSp7sM-10" target="oyIzIirk2-M3pWlSp7sM-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oyIzIirk2-M3pWlSp7sM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oyIzIirk2-M3pWlSp7sM-5" target="oyIzIirk2-M3pWlSp7sM-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="1040" />
-              <mxPoint x="930" y="996" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-12" value="农户" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="843" width="200" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-14" value="菜地承租" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oyIzIirk2-M3pWlSp7sM-12">
+          <mxGeometry x="40" y="115" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oyIzIirk2-M3pWlSp7sM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyIzIirk2-M3pWlSp7sM-11" target="oyIzIirk2-M3pWlSp7sM-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyIzIirk2-M3pWlSp7sM-9" target="oyIzIirk2-M3pWlSp7sM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyIzIirk2-M3pWlSp7sM-9" target="oyIzIirk2-M3pWlSp7sM-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="1035" />
+              <mxPoint x="920" y="1063" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyIzIirk2-M3pWlSp7sM-10" target="oyIzIirk2-M3pWlSp7sM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyIzIirk2-M3pWlSp7sM-6" target="oyIzIirk2-M3pWlSp7sM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyIzIirk2-M3pWlSp7sM-15" target="oyIzIirk2-M3pWlSp7sM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-33" value="下归一后的种植订单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#FF3399;" vertex="1" connectable="0" parent="oyIzIirk2-M3pWlSp7sM-32">
+          <mxGeometry x="0.6111" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oyIzIirk2-M3pWlSp7sM-34" value="需求端租地选菜下单流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="820" width="600" height="573" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
