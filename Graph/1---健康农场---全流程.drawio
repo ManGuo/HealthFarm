@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T07:30:04.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7L6kxo7efzlwNwJTx8xE" version="21.3.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-07T07:44:37.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PO3PSGFDPrbOnePR43D-" version="21.3.7" type="github" pages="6">
   <diagram name="1---平台全流程" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2150" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -651,7 +651,7 @@
           <mxGeometry x="380" y="20" width="200" height="630" as="geometry" />
         </mxCell>
         <mxCell id="igTA44rwuX95AFGyOM8D-14" value="2-1-4-下单服务产品" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jNYcQUH98x_1OMOmk58s-4">
-          <mxGeometry x="30" y="300" width="140" height="30" as="geometry" />
+          <mxGeometry x="30" y="285" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igTA44rwuX95AFGyOM8D-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jNYcQUH98x_1OMOmk58s-1" source="igTA44rwuX95AFGyOM8D-3" target="igTA44rwuX95AFGyOM8D-13">
           <mxGeometry relative="1" as="geometry">
@@ -696,49 +696,101 @@
             <mxPoint x="300" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MnfbR6n1EdzZyiHmMGks-1" value="&lt;h1&gt;整合服务产品&lt;/h1&gt;&lt;div&gt;一种方式是旅客直接到店消费， 在我们平台支付可以享受会员折扣；店员扫码核销；&lt;/div&gt;&lt;div&gt;另外一种将多种乡村供应商的产品进行整合， 打包成新的产品， 一次性支付到平台， 例如旅游路线整合，相应的周边的餐饮、住宿和交通都已经安排好&lt;/div&gt;" style="text;html=1;strokeColor=#3333FF;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="201" width="220" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="uTeN-5GyAz3sHMAvBsFP" name="3---1---物流供应商">
-    <mxGraphModel dx="1026" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MUtaGmQWbys1VGxo9e7j-1" value="3---1---物流供应商" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120.00000000000045" y="50" width="360" height="480" as="geometry" />
+          <mxGeometry x="60.000000000000455" y="41" width="540" height="750" as="geometry" />
         </mxCell>
         <mxCell id="MUtaGmQWbys1VGxo9e7j-2" value="物流供应商" style="swimlane;startSize=20;html=1;" parent="MUtaGmQWbys1VGxo9e7j-1" vertex="1">
-          <mxGeometry y="20" width="120" height="460" as="geometry" />
+          <mxGeometry y="20" width="180" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="3p6OCrnsdDMlr2k5LWp8-1" value="物流能力" style="rounded=1;whiteSpace=wrap;html=1;" parent="MUtaGmQWbys1VGxo9e7j-2" vertex="1">
-          <mxGeometry x="9.999999999999545" y="50" width="100" height="35" as="geometry" />
+        <mxCell id="U7fhaunADDpWOK4t_GRS-2" value="3-1-1-物流商注册" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MUtaGmQWbys1VGxo9e7j-2">
+          <mxGeometry x="20" y="39" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3p6OCrnsdDMlr2k5LWp8-2" value="物流价格" style="rounded=1;whiteSpace=wrap;html=1;" parent="MUtaGmQWbys1VGxo9e7j-2" vertex="1">
-          <mxGeometry x="9.999999999999545" y="100" width="100" height="35" as="geometry" />
+        <mxCell id="U7fhaunADDpWOK4t_GRS-3" value="3-1-2-上架物流产品" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MUtaGmQWbys1VGxo9e7j-2">
+          <mxGeometry x="20" y="110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U7fhaunADDpWOK4t_GRS-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MUtaGmQWbys1VGxo9e7j-2" source="U7fhaunADDpWOK4t_GRS-2" target="U7fhaunADDpWOK4t_GRS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MUtaGmQWbys1VGxo9e7j-2" source="F-0FNwgdDcHHAq4FlEq2-6" target="F-0FNwgdDcHHAq4FlEq2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-6" value="3-1-5-接单派单" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MUtaGmQWbys1VGxo9e7j-2">
+          <mxGeometry x="20" y="339" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-13" value="3-1-6-订单完成" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MUtaGmQWbys1VGxo9e7j-2">
+          <mxGeometry x="20" y="439" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MUtaGmQWbys1VGxo9e7j-3" value="平台" style="swimlane;startSize=20;html=1;" parent="MUtaGmQWbys1VGxo9e7j-1" vertex="1">
-          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="180" y="20" width="200" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="2OPCb3mKn92802e-SEHr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="MUtaGmQWbys1VGxo9e7j-3" source="3p6OCrnsdDMlr2k5LWp8-3" target="3p6OCrnsdDMlr2k5LWp8-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-4" value="3-1-4-拆单/合并物流单" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MUtaGmQWbys1VGxo9e7j-3">
+          <mxGeometry x="10" y="259" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3p6OCrnsdDMlr2k5LWp8-3" value="审核" style="rhombus;whiteSpace=wrap;html=1;" parent="MUtaGmQWbys1VGxo9e7j-3" vertex="1">
-          <mxGeometry x="19.999999999999545" y="160" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3p6OCrnsdDMlr2k5LWp8-7" value="审核通过后上架" style="rounded=1;whiteSpace=wrap;html=1;" parent="MUtaGmQWbys1VGxo9e7j-3" vertex="1">
-          <mxGeometry x="9.999999999999545" y="270" width="100" height="35" as="geometry" />
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-15" value="3-1-6-地导订单" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MUtaGmQWbys1VGxo9e7j-3">
+          <mxGeometry x="40" y="549" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MUtaGmQWbys1VGxo9e7j-4" value="顾客" style="swimlane;startSize=20;html=1;" parent="MUtaGmQWbys1VGxo9e7j-1" vertex="1">
-          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="380" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="3p6OCrnsdDMlr2k5LWp8-6" value="顾客收获后的收货流程" style="rounded=1;whiteSpace=wrap;html=1;" parent="MUtaGmQWbys1VGxo9e7j-4" vertex="1">
-          <mxGeometry x="9.999999999999545" y="110" width="100" height="35" as="geometry" />
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-1" value="3-1-3-收获采摘订单" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MUtaGmQWbys1VGxo9e7j-4">
+          <mxGeometry x="10" y="183" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3p6OCrnsdDMlr2k5LWp8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="MUtaGmQWbys1VGxo9e7j-1" source="3p6OCrnsdDMlr2k5LWp8-1" target="3p6OCrnsdDMlr2k5LWp8-3" edge="1">
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-17" value="3-1-7-收货码确认" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MUtaGmQWbys1VGxo9e7j-4">
+          <mxGeometry x="10" y="639" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MUtaGmQWbys1VGxo9e7j-1" source="U7fhaunADDpWOK4t_GRS-3" target="F-0FNwgdDcHHAq4FlEq2-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MUtaGmQWbys1VGxo9e7j-1" source="F-0FNwgdDcHHAq4FlEq2-1" target="F-0FNwgdDcHHAq4FlEq2-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="249" />
+              <mxPoint x="284" y="249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MUtaGmQWbys1VGxo9e7j-1" source="F-0FNwgdDcHHAq4FlEq2-4" target="F-0FNwgdDcHHAq4FlEq2-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="284" y="329" />
+              <mxPoint x="90" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MUtaGmQWbys1VGxo9e7j-1" source="F-0FNwgdDcHHAq4FlEq2-13" target="F-0FNwgdDcHHAq4FlEq2-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3p6OCrnsdDMlr2k5LWp8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="MUtaGmQWbys1VGxo9e7j-1" source="3p6OCrnsdDMlr2k5LWp8-2" target="3p6OCrnsdDMlr2k5LWp8-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F-0FNwgdDcHHAq4FlEq2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MUtaGmQWbys1VGxo9e7j-1" source="F-0FNwgdDcHHAq4FlEq2-15" target="F-0FNwgdDcHHAq4FlEq2-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="619" />
+              <mxPoint x="460" y="619" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VahbkC_H5xO6F2D5J-49-1" value="&lt;h1&gt;客户收货订单&lt;/h1&gt;&lt;div&gt;需求端进行租种后，进入收获季节，根据用户需求， 可能的组合是采摘订单、包装订单、净菜订单，物流订单等组合，&amp;nbsp;&lt;/div&gt;&lt;div&gt;所以在平台需要进行拆单和合并订单;&lt;/div&gt;&lt;div&gt;物流订单主要是城市间流转， 所以接单后需要确定货物数量，确定到达后需要接货确认后才算完成&lt;/div&gt;" style="text;html=1;strokeColor=#3333FF;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="700" y="200" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BU2VoZYEfqlFHPpZ2_sX-1" value="" style="endArrow=diamond;html=1;exitX=0;exitY=0.438;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;strokeColor=#7F00FF;rounded=0;endFill=1;startArrow=diamond;startFill=1;exitPerimeter=0;" edge="1" parent="1" source="VahbkC_H5xO6F2D5J-49-1" target="F-0FNwgdDcHHAq4FlEq2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="281" as="sourcePoint" />
+            <mxPoint x="20" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
